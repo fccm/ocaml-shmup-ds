@@ -1140,6 +1140,9 @@ let init_game renderer =
   let com_pack3_dir =
     (String.concat Filename.dir_sep [gp; "Commander"; "Space_Ships_pack3"])
   in
+  let com_pack4_dir =
+    (String.concat Filename.dir_sep [gp; "Commander"; "space_ships_pack4-1"])
+  in
   let ships_files = [|
     deep_space_dir, "dipy00.bmp", 4;
     deep_space_dir, "dipy02.bmp", 4;
@@ -1179,6 +1182,12 @@ let init_game renderer =
     com_pack3_dir, "a32.bmp", 1;
     com_pack3_dir, "a35.bmp", 2;
     com_pack3_dir, "a38.bmp", 2;
+
+    com_pack4_dir, "a1.bmp", 2;
+    com_pack4_dir, "a2.bmp", 2;
+    com_pack4_dir, "a3.bmp", 2;
+    com_pack4_dir, "a23.bmp", 2;
+    com_pack4_dir, "a45.bmp", 2;
   |] in
   let ship_player =
     deep_space_dir, "dipy16.bmp", 4
