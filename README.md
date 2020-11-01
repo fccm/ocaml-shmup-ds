@@ -16,7 +16,7 @@ Run the following command to uncompress the sprites:
 make -C Commander
 ```
 
-You need ocamlsdl2 to run and/or compile:
+You need ocamlsdl2 to run and/or compile:  
 https://github.com/fccm/OCamlSDL2
 
 This game is known to work with:
