@@ -34,7 +34,7 @@ If you just compiled ocamlsdl2 without installing it:
 ocaml -I ../OCamlSDL2/src sdl2.cma shmup_ds.ml
 ```
 
-Write to me to tell me what you think about this game,
-or to tell me what is your higher score:
+Write to me to tell me what you think about this game,  
+or to tell me what is your higher score:  
 monnier.florent (at) gmail.com
 
