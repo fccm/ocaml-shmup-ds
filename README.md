@@ -1,3 +1,6 @@
+![shmup-ds screenshot](
+https://opengameart.org/sites/default/files/deep-space-ships-screenshot.01.png)
+
 Here is a simple shmup game made from `shmup_av` and
 the sprites from `Bazlik_Commander`.
 
