@@ -8,11 +8,12 @@ You can play with the keyboard or with a joystick.
 With the keyboard shoot with `Z`.  
 When you lost, restart with `Space` (or button 3 of the joystick).  
 
-This game are released under a restrictionless Zlib license,
+This game are released under a restrictionless Zlib license,  
 see the file LICENSE.txt for details.
 
-The sprites from `Bazlik_Commander` are released under the CC0
-license, see `Commander/LICENSE.txt` for details.
+The sprites from `Bazlik_Commander` are released under the CC0 license,  
+see [Commander/LICENSE.txt](Commander/LICENSE.txt)
+and [Commander/README.txt](Commander/README.txt) for details.
 
 Run the following command to uncompress the sprites:
 ```
